@@ -1,3 +1,3 @@
 # test repo
 
-Testing repository.
+Testing repository. Mostly for csi secrets store driver stuff.
